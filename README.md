@@ -20,6 +20,6 @@ La troisième est de participer à l'activité du serveur en rejoignant le staff
 Et la dernière façon est de nous soutenir financièrement que se soit en boostant le Discord ou en faisant des dons pour le serveur.
 <br>
 
-# 🔗 Follow us
+# 🔗 Nos reseaux 
 [![Twitter Follow](https://img.shields.io/twitter/follow/HepixiaMc?color=%231DA1F2&label=Follow%20us&logo=Twitter&style=for-the-badge)](https://twitter.com/HepixiaMc)
 [![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=discord.hepixia.net&color=7289DA&logo=Discord&style=for-the-badge)](https://discord.hepixia.net)
