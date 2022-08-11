@@ -3,6 +3,13 @@
 
 <br>
 
+# Languages
+
+> ![Hepixia()](assets/hepixia.png)
+<br>
+
+<br>
+
 # Anout US
 
 > Notre serveur mini-jeux alliant des modes classiques qui vous ont déjà ravis de nombreuses heures revisité à la sauce Hepix ainsi que des nouveautés directement inspirés par VOUS !
