@@ -1,4 +1,4 @@
-![Hepixia Map Making](assets/banner.png)
+![Hepixia Map Making](assets/hepixia.png)
 ---
 
 <br>
