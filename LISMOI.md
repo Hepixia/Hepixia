@@ -3,6 +3,14 @@
 
 <br>
 
+# Languages
+
+[![FR](assets/fr.png)](LISMOI.md)
+[![EN](assets/en.png)](README.md)
+<br>
+
+<br>
+
 # A propos de nous
 
 > Notre serveur mini-jeux alliant des modes classiques qui vous ont déjà ravis de nombreuses heures revisité à la sauce Hepix ainsi que des nouveautés directement inspirés par VOUS !
