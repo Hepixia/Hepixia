@@ -2,7 +2,7 @@
 
 <br>
 
-## A propos de nous
+# A propos de nous
 
 > Notre serveur mini-jeux alliant des modes classiques qui vous ont déjà ravis de nombreuses heures revisité à la sauce Hepix ainsi que des nouveautés directement inspirés par VOUS !
 En effet, nous avons mis en place une communauté 2.0. Une application web vous permettra de soumettre vos idées et de les accompagner jusqu'à l'éventuelle réalisation. Soyez un créateur de jeux!
@@ -11,7 +11,7 @@ Mais... Ce n'est pas tout (et loin d'être tout d'ailleurs, si vous saviez tout 
 
 <br>
 
-## Comment nous aider ?
+# Comment nous aider ?
 
 > Pour cela plusieurs choix s'offrent à vous !
 La première façon de nous aider est de partager le Discord à vos amis pour faire grandir notre HepiCommunity !
