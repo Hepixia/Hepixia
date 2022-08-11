@@ -5,7 +5,7 @@
 
 # Languages
 
-> ![Hepixia()](assets/hepixia.png)
+> ![Hepixia(assets/hepixia.png)](LISMOI.md)
 <br>
 
 <br>
