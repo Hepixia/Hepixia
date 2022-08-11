@@ -5,7 +5,8 @@
 
 # Languages
 
-> [![Hepixia](assets/hepixia.png)](LISMOI.md)
+[![FR](assets/fr.png)](LISMOI.md)
+[![EN](assets/en.png)](README.md)
 <br>
 
 <br>
